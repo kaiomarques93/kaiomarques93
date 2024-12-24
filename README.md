@@ -5,7 +5,7 @@
 
 ## Languages I Use
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiomarques93&layout=compact&theme=radical&count_private)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiomarques93&layout=compact&theme=radical&count_private=true)
 
 ### My GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiomarques93&count_private=true&show_icons=true&theme=radical)
